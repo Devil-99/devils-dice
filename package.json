@@ -13,9 +13,6 @@
   "files": [
     "src"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "souvik_maji_99",
   "keywords": [
     "password",
@@ -23,5 +20,9 @@
     "security",
     "crypto"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devil-99/devils-dice.git"
+  }
 }
