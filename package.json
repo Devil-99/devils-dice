@@ -1,0 +1,27 @@
+{
+  "name": "devils-dice",
+  "version": "1.0.0",
+  "description": "Cryptographically secure random password generator",
+  "type": "module",
+  "types": "./src/index.d.ts",
+  "main": "./src/index.cjs",
+  "module": "./src/index.js",
+  "exports": {
+    "import": "./src/index.js",
+    "require": "./src/index.cjs"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "souvik_maji_99",
+  "keywords": [
+    "password",
+    "password-generator",
+    "security",
+    "crypto"
+  ],
+  "license": "MIT"
+}
